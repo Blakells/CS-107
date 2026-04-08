@@ -24,3 +24,10 @@ a **database** is an organized & structured collection of data.
 - A set of tables makes up a schema, and and number of schema create a database. Many databases can be created on a single server 
 # 1.7
 ## Models of Database Management Systems 
+**Flat file** is the most basic way to organize data. A single table with a large number of records and fields. 
+**Hierarchical DBMS** is a parent-child relationship. Each data item is subordinate to another one. This is a tree-like structure. 
+**Network DBMS** every data item can be related to many others. This is more like a graph. 
+**Relational DBMS** all data is rganized in the form of tables where each row is a record and each column is a field. A relational DBMS uses multiple tables to organize the data. 
+**Object-Oriented DBMS** handle many newer data types like audio * video. Everythig is stored as an object in the database. 
+# 1.8 
+## Advantages of DBMS 
